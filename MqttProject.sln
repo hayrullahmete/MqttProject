@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MqttLibrary", "MqttLibrary\MqttLibrary.csproj", "{050B5686-8EE5-4763-ABD4-37CC860815B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MqttSubscriber", "MqttSubscriber\MqttSubscriber.csproj", "{A1A9E593-A490-4A23-8414-02A10B37A6FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{050B5686-8EE5-4763-ABD4-37CC860815B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{050B5686-8EE5-4763-ABD4-37CC860815B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{050B5686-8EE5-4763-ABD4-37CC860815B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{050B5686-8EE5-4763-ABD4-37CC860815B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1A9E593-A490-4A23-8414-02A10B37A6FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A9E593-A490-4A23-8414-02A10B37A6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A9E593-A490-4A23-8414-02A10B37A6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A9E593-A490-4A23-8414-02A10B37A6FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79FD4FE7-7557-4828-94DA-759BC2F9B877}
+	EndGlobalSection
+EndGlobal
